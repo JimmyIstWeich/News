@@ -1,17 +1,19 @@
-[
-  {
-    "title": "Artikel 100000",
-    "imageUrl": "https://example.com/bild1.jpg",
-    "articleText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-  },
-  {
-    "title": "Artikel 2",
-    "imageUrl": "https://example.com/bild2.jpg",
-    "articleText": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-  },
-  {
-    "title": "Artikel 3",
-    "imageUrl": "https://example.com/bild3.jpg",
-    "articleText": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris."
-  }
-]
+{
+  "articles": [
+    {
+      "title": "Artikel 1",
+      "imageURL": "image1.jpg",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac nisi in nunc cursus iaculis vitae ut felis. Sed tincidunt rutrum ipsum, eu vestibulum enim scelerisque id. Praesent in mauris ut mi mattis efficitur."
+    },
+    {
+      "title": "Artikel 2",
+      "imageURL": "image2.jpg",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac nisi in nunc cursus iaculis vitae ut felis. Sed tincidunt rutrum ipsum, eu vestibulum enim scelerisque id. Praesent in mauris ut mi mattis efficitur."
+    },
+    {
+      "title": "Artikel 3",
+      "imageURL": "image3.jpg",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac nisi in nunc cursus iaculis vitae ut felis. Sed tincidunt rutrum ipsum, eu vestibulum enim scelerisque id. Praesent in mauris ut mi mattis efficitur."
+    }
+  ]
+}
