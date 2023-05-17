@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Artikel 1",
+    "imageUrl": "https://example.com/bild1.jpg",
+    "articleText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  },
+  {
+    "title": "Artikel 2",
+    "imageUrl": "https://example.com/bild2.jpg",
+    "articleText": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "title": "Artikel 3",
+    "imageUrl": "https://example.com/bild3.jpg",
+    "articleText": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris."
+  }
+]
