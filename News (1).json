@@ -1,0 +1,19 @@
+{
+  "articles": [
+    {
+      "title": "Artikel 1000000000000000000000000000000000000",
+      "imageURL": "image1.jpg",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac nisi in nunc cursus iaculis vitae ut felis. Sed tincidunt rutrum ipsum, eu vestibulum enim scelerisque id. Praesent in mauris ut mi mattis efficitur."
+    },
+    {
+      "title": "Artikel 2",
+      "imageURL": "image2.jpg",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac nisi in nunc cursus iaculis vitae ut felis. Sed tincidunt rutrum ipsum, eu vestibulum enim scelerisque id. Praesent in mauris ut mi mattis efficitur."
+    },
+    {
+      "title": "Artikel 3",
+      "imageURL": "image3.jpg",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac nisi in nunc cursus iaculis vitae ut felis. Sed tincidunt rutrum ipsum, eu vestibulum enim scelerisque id. Praesent in mauris ut mi mattis efficitur."
+    }
+  ]
+}
