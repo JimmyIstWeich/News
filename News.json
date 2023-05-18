@@ -1,19 +1,9 @@
-{
-  "articles": [
-    {
-      "title": "Artikel 1000000000000000000000000000000000000",
-      "imageURL": "image1.jpg",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac nisi in nunc cursus iaculis vitae ut felis. Sed tincidunt rutrum ipsum, eu vestibulum enim scelerisque id. Praesent in mauris ut mi mattis efficitur."
-    },
-    {
-      "title": "Artikel 2",
-      "imageURL": "image2.jpg",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac nisi in nunc cursus iaculis vitae ut felis. Sed tincidunt rutrum ipsum, eu vestibulum enim scelerisque id. Praesent in mauris ut mi mattis efficitur."
-    },
-    {
-      "title": "Artikel 3",
-      "imageURL": "image3.jpg",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac nisi in nunc cursus iaculis vitae ut felis. Sed tincidunt rutrum ipsum, eu vestibulum enim scelerisque id. Praesent in mauris ut mi mattis efficitur."
-    }
-  ]
-}
+[
+	{
+		"Bild": "https://th.bing.com/th/id/OIG.nGGZRbJSJzZNC014CAvs?pid=ImgGn",
+		"Name": "<h2>Tragische Geschichte von Mobbing auf dem Spielplatz: Teddy Jimmy leidet unter grausamen Angriffen</h2>",
+		"Beschreibung": "Teddy Jimmy, ein liebenswerter Bär, wird auf einem Spielplatz in Brückenbach grausam gemobbt. Die fiese Mobbinggruppe beleidigt und verspottet ihn, während er seine Freude am Spielen verliert. Trotz seines Widerstands bleibt Teddy Jimmy ein Opfer der Mobber. Die Geschichte endet tragisch und dient als Mahnung, gegen Mobbing vorzugehen und für Freundlichkeit und Respekt einzustehen.",
+		"Thema": "Geschichte",
+		"Datum": "19.1.1945"
+	}
+]
